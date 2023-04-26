@@ -1,4 +1,5 @@
 name: "rmd-sandbox"
+output_dir: "docs"
 navbar:
   title: "faizbyp"
   left:
