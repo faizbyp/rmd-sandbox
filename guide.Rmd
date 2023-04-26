@@ -1,0 +1,12 @@
+---
+title: "Guide"
+---
+
+## Development
+
+- `_site.yml`
+  
+  This is the config file. Just like another SSG.
+  
+  You can add pages to the navbar from this file.
+  

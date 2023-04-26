@@ -1,0 +1,20 @@
+name: "rmd-sandbox"
+navbar:
+  title: "faizbyp"
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "Guide"
+      href: guide.html
+    - text: "Topics"
+      menu:
+        - text: "Aljabar Linear"
+        - text: "Page A"
+          href: page-a.html
+        - text: "---------"
+        - text: "Metode Kuantitatif"
+        - text: "Page C"
+          href: page-c.html
+output:
+  html_document:
+    theme: darkly
